@@ -3,7 +3,7 @@
 Une carte qui réunit, en **données ouvertes**, ce qui fait chauffer le 18e, les lieux frais, la population exposée et la fréquentation des lieux d'attente. Elle sert à repérer les **points chauds** : zones chaudes, éloignées d'un lieu frais, densément peuplées ou habitées par des personnes fragiles.
 
 - 🗺️ **Carte uMap** : [Chaleur, fraîcheur et fréquentation – 18e (référence)](https://umap.incubateur.anct.gouv.fr/fr/map/chaleur-fraicheur-et-frequentation-18e-reference_7188#16/48.889873/2.346449)
-- 📄 **Méthode détaillée** : [methode_reference.html](methode_reference.html)
+- 📄 **Méthode détaillée** : [methode_reference.html](methode_reference.html)(en ligne : `https://<compte>.github.io/<depot>/methode_reference.html`)
 
 Chaque calque a sa légende dans le panneau des calques d'uMap, et chaque objet affiche ses chiffres au clic. Les données de la carte sont téléchargeables depuis uMap (menu « Exporter »).
 
