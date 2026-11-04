@@ -3,7 +3,7 @@
 Une carte qui réunit, en **données ouvertes**, ce qui fait chauffer le 18e, les lieux frais, la population exposée et la fréquentation des lieux d'attente. Elle sert à repérer les **points chauds** : zones chaudes, éloignées d'un lieu frais, densément peuplées ou habitées par des personnes fragiles.
 
 - 🗺️ **Carte uMap** : [Chaleur, fraîcheur et fréquentation – 18e (référence)](https://umap.incubateur.anct.gouv.fr/fr/map/chaleur-fraicheur-et-frequentation-18e-reference_7188#16/48.889873/2.346449)
-- 📄 **Méthode détaillée** : [methode_reference.html](methode_reference.html)(en ligne : `(https://bapteis.github.io/chaleur-fraicheur-paris18/methode_reference.html)`)
+- 📄 **Méthode détaillée** : [methode_reference.html](methode_reference.html) en ligne : https://bapteis.github.io/chaleur-fraicheur-paris18/methode_reference.html
 
 Chaque calque a sa légende dans le panneau des calques d'uMap, et chaque objet affiche ses chiffres au clic. Les données de la carte sont téléchargeables depuis uMap (menu « Exporter »).
 
@@ -49,4 +49,4 @@ C'est une aide à la lecture du territoire, pas une mesure de température : auc
 
 ## Licence
 
-Texte et données produites : [Open Database License (ODbL) 1.0](https://opendatacommons.org/licenses/odbl/1-0/), car elles contiennent des données OpenStreetMap et Ville de Paris sous ODbL. Mentionner : « © [bapt_eis], données IDFM, Ville de Paris, Eau de Paris, Institut Paris Région, INSEE, ANCT, © contributeurs OpenStreetMap ».
+Texte et données produites : [Open Database License (ODbL) 1.0](https://opendatacommons.org/licenses/odbl/1-0/), car elles contiennent des données OpenStreetMap et Ville de Paris sous ODbL. Mentionner : « © bapteis, données IDFM, Ville de Paris, Eau de Paris, Institut Paris Région, INSEE, ANCT, © contributeurs OpenStreetMap ».
